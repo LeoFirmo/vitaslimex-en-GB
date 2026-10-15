@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vitaslimex-offer.vercel.app/sitemap.xml
